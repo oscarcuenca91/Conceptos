@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             int numero = 1;
+            int numero2 = 2;
         }
     }
 }
